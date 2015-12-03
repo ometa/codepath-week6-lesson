@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- define different states depending on the state of the view -->
+
+    <solid android:color="#FDB913" />
+    <stroke android:color="#02146c" android:width="4dp" />
+
+
+
+</shape>
